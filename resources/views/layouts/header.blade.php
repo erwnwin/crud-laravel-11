@@ -13,9 +13,9 @@
             <div class="collapse navbar-collapse pull-left" id="navbar-collapse">
                 <ul class="nav navbar-nav">
                     <li class="{{ request()->routeIs('dashboard') ? 'active' : '' }}"><a
-                            href="{{ route('dashboard') }}">Dashboard </a></li>
+                            href="{{ route('dashboard') }}"><i class="fa fa-dashboard"></i> Dashboard </a></li>
                     <li class="{{ request()->routeIs('mahasiswa*') ? 'active' : '' }}"><a
-                            href="{{ route('mahasiswa') }}">Data Mahasiswa</a></li>
+                            href="{{ route('mahasiswa') }}"><i class="fa fa-users"></i> Data Mahasiswa</a></li>
 
                 </ul>
 
