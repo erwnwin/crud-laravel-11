@@ -4,7 +4,7 @@
         <div class="pull-right hidden-xs">
             Versi berapa pun yang kalian inginkan
         </div>
-        <strong>Copyright &copy; 2024</strong> TUGAS UAS
+        <strong>Copyright &copy; 2025</strong> TUGAS UAS
     </div>
     <!-- /.container -->
 </footer>
