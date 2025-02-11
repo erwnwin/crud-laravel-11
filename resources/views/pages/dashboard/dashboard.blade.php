@@ -29,7 +29,8 @@
                         </strong>
                     <h3>
                         <ol>
-                            <li>kdkd</li>
+                            <li>Tahara Mauful Yusuf (20212205028)</li>
+                            <li>Munadya Muhyiddin (20212205035)</li>
                         </ol>
                     </h3>
                     </p>
